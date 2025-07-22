@@ -2,6 +2,6 @@ spring:
   server:
     port: 2900
   application:
-    name: config-server
+    name: spring-config-server
 datasource:
   url: jdbc:mysql://localhost:3306/db
