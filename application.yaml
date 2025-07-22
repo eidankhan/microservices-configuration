@@ -1,4 +1,6 @@
 spring:
+  server:
+    port: 2900
   application:
     name: config-server
 datasource:
